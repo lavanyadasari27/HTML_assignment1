@@ -1,5 +1,5 @@
-let lav=document.getElementById("button")
-function change(()
+
+function change()
 {
- lav.="Welcome ";
- }
+ document.getElementById("name").innerHTML="Welcome"
+}
